@@ -7,7 +7,7 @@ The analysis currently investigates questions like:
 - What majors experience higher or lower levels of employment? 
 - What are the differences in how Men and Women pursue majors and how does that affect their earnings?
 
-# To work with this analysis
+## To work with this analysis
 - Source data is provided in 'recent-grads.csv'
 - Just download the jupyter notebook and make sure it's referencing the correct file path for the data.
 - The analysis utilizes very common libraries including numpy, pandas, matplotlib, and scipy.
